@@ -1,7 +1,7 @@
 
 # 优质 Mirror 信息源列表
 
-[![](https://badgen.net/badge/icon/Twitter?icon=twitter&label)](https://twitter.com/dbarobin)
+[![](https://badgen.net/badge/icon/Twitter?icon=twitter&label)](https://twitter.com/mindwingsD)
 
 ## 目录
 
